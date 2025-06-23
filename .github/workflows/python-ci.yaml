@@ -1,6 +1,6 @@
 name: CI con pytest
 
-on: [push, pull_request]  # Se ejecuta al hacer push o PR
+on: [push, pull_request]
 
 jobs:
   test:
